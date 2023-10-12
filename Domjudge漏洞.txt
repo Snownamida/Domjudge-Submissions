@@ -1,0 +1,10 @@
+
+ - Force gcc to compile as C code, preventing a security issue where
+   submissions could be autodetected as C++ by filename extension.
+ - API 'configuration' is now only available to jury and
+   'submission' is now limited to valid submissions.
+ - In Haskell run script, set maximum stack size to someting small to
+   prevent ghc from running out of memory (#138, thanks Ruud Koot).
+ - Fix problem autoselect in team page (thanks Jeroen Bransen).
+ - Fix API returning submissions after freeze and disabled teams,
+   and add a 'user' endpoint (thanks Nicky Gerritsen).
