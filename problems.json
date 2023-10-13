@@ -60,6 +60,12 @@
     "color": "#000000"
   },
   {
+    "id": "61",
+    "shortname": "TD6",
+    "name": "Table de hachage",
+    "color": "#000000"
+  },
+  {
     "id": "93",
     "shortname": "TD1_3",
     "name": "Intervalles",

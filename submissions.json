@@ -16286,5 +16286,429 @@
     "language": "c",
     "time": "1697201422.518300000",
     "valid": true
+  },
+  {
+    "id": "48504",
+    "team": "1672",
+    "problem": "56",
+    "language": "c",
+    "time": "1697201713.940900000",
+    "valid": true
+  },
+  {
+    "id": "48505",
+    "team": "1759",
+    "problem": "102",
+    "language": "c",
+    "time": "1697202291.083400000",
+    "valid": true
+  },
+  {
+    "id": "48506",
+    "team": "1759",
+    "problem": "102",
+    "language": "c",
+    "time": "1697202347.561800000",
+    "valid": true
+  },
+  {
+    "id": "48507",
+    "team": "1695",
+    "problem": "56",
+    "language": "cpp",
+    "time": "1697202377.305000000",
+    "valid": true
+  },
+  {
+    "id": "48508",
+    "team": "1749",
+    "problem": "57",
+    "language": "cpp",
+    "time": "1697203121.122100000",
+    "valid": true
+  },
+  {
+    "id": "48509",
+    "team": "1748",
+    "problem": "56",
+    "language": "c",
+    "time": "1697203355.529500000",
+    "valid": true
+  },
+  {
+    "id": "48510",
+    "team": "1748",
+    "problem": "56",
+    "language": "c",
+    "time": "1697203453.347700000",
+    "valid": true
+  },
+  {
+    "id": "48511",
+    "team": "1758",
+    "problem": "56",
+    "language": "c",
+    "time": "1697203944.929200000",
+    "valid": true
+  },
+  {
+    "id": "48512",
+    "team": "1758",
+    "problem": "56",
+    "language": "c",
+    "time": "1697204034.973700000",
+    "valid": true
+  },
+  {
+    "id": "48513",
+    "team": "1759",
+    "problem": "102",
+    "language": "c",
+    "time": "1697204066.710700000",
+    "valid": true
+  },
+  {
+    "id": "48514",
+    "team": "1758",
+    "problem": "56",
+    "language": "c",
+    "time": "1697204368.892900000",
+    "valid": true
+  },
+  {
+    "id": "48515",
+    "team": "1668",
+    "problem": "57",
+    "language": "c",
+    "time": "1697204571.716100000",
+    "valid": true
+  },
+  {
+    "id": "48516",
+    "team": "1668",
+    "problem": "57",
+    "language": "c",
+    "time": "1697204618.279700000",
+    "valid": true
+  },
+  {
+    "id": "48517",
+    "team": "1668",
+    "problem": "57",
+    "language": "c",
+    "time": "1697204678.532000000",
+    "valid": true
+  },
+  {
+    "id": "48518",
+    "team": "1758",
+    "problem": "56",
+    "language": "c",
+    "time": "1697205456.201800000",
+    "valid": true
+  },
+  {
+    "id": "48519",
+    "team": "1755",
+    "problem": "57",
+    "language": "c",
+    "time": "1697205701.699100000",
+    "valid": true
+  },
+  {
+    "id": "48520",
+    "team": "1724",
+    "problem": "57",
+    "language": "c",
+    "time": "1697205738.414500000",
+    "valid": true
+  },
+  {
+    "id": "48521",
+    "team": "1724",
+    "problem": "57",
+    "language": "c",
+    "time": "1697205813.387500000",
+    "valid": true
+  },
+  {
+    "id": "48522",
+    "team": "1751",
+    "problem": "57",
+    "language": "c",
+    "time": "1697206055.810300000",
+    "valid": true
+  },
+  {
+    "id": "48523",
+    "team": "1724",
+    "problem": "57",
+    "language": "c",
+    "time": "1697206067.493400000",
+    "valid": true
+  },
+  {
+    "id": "48524",
+    "team": "1751",
+    "problem": "57",
+    "language": "c",
+    "time": "1697206088.749700000",
+    "valid": true
+  },
+  {
+    "id": "48525",
+    "team": "1751",
+    "problem": "57",
+    "language": "c",
+    "time": "1697206113.951200000",
+    "valid": true
+  },
+  {
+    "id": "48526",
+    "team": "1758",
+    "problem": "56",
+    "language": "c",
+    "time": "1697206128.309300000",
+    "valid": true
+  },
+  {
+    "id": "48527",
+    "team": "1751",
+    "problem": "57",
+    "language": "c",
+    "time": "1697206162.742700000",
+    "valid": true
+  },
+  {
+    "id": "48528",
+    "team": "1668",
+    "problem": "57",
+    "language": "c",
+    "time": "1697206464.076500000",
+    "valid": true
+  },
+  {
+    "id": "48529",
+    "team": "1748",
+    "problem": "56",
+    "language": "c",
+    "time": "1697206727.825200000",
+    "valid": true
+  },
+  {
+    "id": "48530",
+    "team": "1748",
+    "problem": "102",
+    "language": "c",
+    "time": "1697206853.440500000",
+    "valid": true
+  },
+  {
+    "id": "48531",
+    "team": "1748",
+    "problem": "102",
+    "language": "c",
+    "time": "1697206947.048800000",
+    "valid": true
+  },
+  {
+    "id": "48532",
+    "team": "1668",
+    "problem": "57",
+    "language": "c",
+    "time": "1697206950.702700000",
+    "valid": true
+  },
+  {
+    "id": "48533",
+    "team": "1668",
+    "problem": "57",
+    "language": "c",
+    "time": "1697206985.462800000",
+    "valid": true
+  },
+  {
+    "id": "48534",
+    "team": "1749",
+    "problem": "60",
+    "language": "cpp",
+    "time": "1697207112.712000000",
+    "valid": true
+  },
+  {
+    "id": "48535",
+    "team": "1724",
+    "problem": "57",
+    "language": "c",
+    "time": "1697207139.387700000",
+    "valid": true
+  },
+  {
+    "id": "48536",
+    "team": "1724",
+    "problem": "57",
+    "language": "c",
+    "time": "1697207216.656300000",
+    "valid": true
+  },
+  {
+    "id": "48537",
+    "team": "1751",
+    "problem": "57",
+    "language": "c",
+    "time": "1697207761.968400000",
+    "valid": true
+  },
+  {
+    "id": "48538",
+    "team": "1755",
+    "problem": "57",
+    "language": "c",
+    "time": "1697207916.321700000",
+    "valid": true
+  },
+  {
+    "id": "48539",
+    "team": "1755",
+    "problem": "57",
+    "language": "cpp",
+    "time": "1697207930.182000000",
+    "valid": true
+  },
+  {
+    "id": "48540",
+    "team": "1751",
+    "problem": "57",
+    "language": "c",
+    "time": "1697207931.757700000",
+    "valid": true
+  },
+  {
+    "id": "48541",
+    "team": "1751",
+    "problem": "57",
+    "language": "cpp",
+    "time": "1697207960.798000000",
+    "valid": true
+  },
+  {
+    "id": "48542",
+    "team": "1755",
+    "problem": "57",
+    "language": "c",
+    "time": "1697207974.326500000",
+    "valid": true
+  },
+  {
+    "id": "48543",
+    "team": "1751",
+    "problem": "57",
+    "language": "c",
+    "time": "1697208010.392000000",
+    "valid": true
+  },
+  {
+    "id": "48544",
+    "team": "1755",
+    "problem": "57",
+    "language": "cpp",
+    "time": "1697208067.447300000",
+    "valid": true
+  },
+  {
+    "id": "48545",
+    "team": "1755",
+    "problem": "57",
+    "language": "c",
+    "time": "1697208086.987300000",
+    "valid": true
+  },
+  {
+    "id": "48546",
+    "team": "1668",
+    "problem": "57",
+    "language": "c",
+    "time": "1697208094.969000000",
+    "valid": true
+  },
+  {
+    "id": "48547",
+    "team": "1677",
+    "problem": "56",
+    "language": "c",
+    "time": "1697208327.617200000",
+    "valid": true
+  },
+  {
+    "id": "48548",
+    "team": "1724",
+    "problem": "60",
+    "language": "c",
+    "time": "1697208506.926600000",
+    "valid": true
+  },
+  {
+    "id": "48549",
+    "team": "1755",
+    "problem": "57",
+    "language": "c",
+    "time": "1697209112.905000000",
+    "valid": true
+  },
+  {
+    "id": "48550",
+    "team": "1749",
+    "problem": "57",
+    "language": "c",
+    "time": "1697209460.649100000",
+    "valid": true
+  },
+  {
+    "id": "48551",
+    "team": "1668",
+    "problem": "102",
+    "language": "c",
+    "time": "1697210220.436000000",
+    "valid": true
+  },
+  {
+    "id": "48552",
+    "team": "1668",
+    "problem": "102",
+    "language": "c",
+    "time": "1697210270.489500000",
+    "valid": true
+  },
+  {
+    "id": "48553",
+    "team": "1749",
+    "problem": "10",
+    "language": "c",
+    "time": "1697210985.887200000",
+    "valid": true
+  },
+  {
+    "id": "48554",
+    "team": "1749",
+    "problem": "60",
+    "language": "c",
+    "time": "1697211059.583300000",
+    "valid": true
+  },
+  {
+    "id": "48555",
+    "team": "1749",
+    "problem": "100",
+    "language": "cpp",
+    "time": "1697211087.865100000",
+    "valid": true
+  },
+  {
+    "id": "48556",
+    "team": "1749",
+    "problem": "99",
+    "language": "cpp",
+    "time": "1697211115.427400000",
+    "valid": true
   }
 ]
