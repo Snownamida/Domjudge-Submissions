@@ -14,21 +14,15 @@ function timestamp_to_date(timestamp) {
 
 const tbody = document.querySelector("tbody");
 
-let teams, members;
-fetch("teams.json")
-  .then(response => response.json())
-  .then(json => {
-    teams = json;
-  })
-  .then(() => fetch("members.json"))
-  .then(response => response.json())
-  .then(json => {
-    members = json;
-  })
-  .then(() => fetch("submissions.json"))
-  .then(response => response.json())
-  .then(json => {
-    for (submission of json) {
+Promise.all([
+  fetch("teams.json"),
+  fetch("members.json"),
+  fetch("submissions.json"),
+  fetch("problems.json"),
+])
+  .then(responses => Promise.all(responses.map(response => response.json())))
+  .then(([teams, members, submissions, problems]) => {
+    for (const submission of submissions) {
       const tr = document.createElement("tr");
       tbody.appendChild(tr);
 
@@ -48,13 +42,16 @@ fetch("teams.json")
 
       const member = document.createElement("td");
       if (teamname.slice(0, 1) === "B") {
-        teamname=
-        member.innerHTML = members[team.innerText];
+        teamname = member.innerHTML = members[team.innerText];
       }
       tr.appendChild(member);
 
       const problem = document.createElement("td");
-      problem.innerText = submission.problem;
+      for (const problem_ of problems) {
+        if (problem_.id === submission.problem) {
+          problem.innerText = problem_.shortname;
+        }
+      }
       tr.appendChild(problem);
 
       const language = document.createElement("td");
