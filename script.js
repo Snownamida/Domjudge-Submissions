@@ -31,18 +31,13 @@ Promise.all([
       tr.appendChild(time);
 
       const team = document.createElement("td");
-      let teamname;
-      for (const team_ of teams) {
-        if (team_.id === submission.team) {
-          teamname = team.innerText = team_.name;
-          break;
-        }
-      }
+      let teamname = teams[submission.team].name;
+      team.innerText = teamname;
       tr.appendChild(team);
 
       const member = document.createElement("td");
       if (teamname.slice(0, 1) === "B") {
-        teamname = member.innerHTML = members[team.innerText];
+        teamname = member.innerText = members[team.innerText];
       }
       tr.appendChild(member);
 
