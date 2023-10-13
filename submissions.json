@@ -16054,5 +16054,237 @@
     "language": "c",
     "time": "1697182206.772000000",
     "valid": true
+  },
+  {
+    "id": "48475",
+    "team": "1768",
+    "problem": "57",
+    "language": "c",
+    "time": "1697189913.855200000",
+    "valid": true
+  },
+  {
+    "id": "48476",
+    "team": "1768",
+    "problem": "57",
+    "language": "c",
+    "time": "1697190224.754800000",
+    "valid": true
+  },
+  {
+    "id": "48477",
+    "team": "1669",
+    "problem": "96",
+    "language": "c",
+    "time": "1697196790.252600000",
+    "valid": true
+  },
+  {
+    "id": "48478",
+    "team": "1669",
+    "problem": "96",
+    "language": "c",
+    "time": "1697197033.464200000",
+    "valid": true
+  },
+  {
+    "id": "48479",
+    "team": "1669",
+    "problem": "96",
+    "language": "c",
+    "time": "1697197087.179900000",
+    "valid": true
+  },
+  {
+    "id": "48480",
+    "team": "1668",
+    "problem": "104",
+    "language": "c",
+    "time": "1697198379.922000000",
+    "valid": true
+  },
+  {
+    "id": "48481",
+    "team": "1668",
+    "problem": "104",
+    "language": "c",
+    "time": "1697198426.372300000",
+    "valid": true
+  },
+  {
+    "id": "48482",
+    "team": "1668",
+    "problem": "104",
+    "language": "c",
+    "time": "1697198497.525100000",
+    "valid": true
+  },
+  {
+    "id": "48483",
+    "team": "1668",
+    "problem": "104",
+    "language": "c",
+    "time": "1697198587.515800000",
+    "valid": true
+  },
+  {
+    "id": "48484",
+    "team": "1677",
+    "problem": "96",
+    "language": "c",
+    "time": "1697199423.081600000",
+    "valid": true
+  },
+  {
+    "id": "48485",
+    "team": "1751",
+    "problem": "42",
+    "language": "c",
+    "time": "1697199483.188400000",
+    "valid": true
+  },
+  {
+    "id": "48486",
+    "team": "1751",
+    "problem": "42",
+    "language": "cpp",
+    "time": "1697199509.040800000",
+    "valid": true
+  },
+  {
+    "id": "48487",
+    "team": "1677",
+    "problem": "96",
+    "language": "c",
+    "time": "1697199517.414400000",
+    "valid": true
+  },
+  {
+    "id": "48488",
+    "team": "1751",
+    "problem": "56",
+    "language": "c",
+    "time": "1697199580.039700000",
+    "valid": true
+  },
+  {
+    "id": "48489",
+    "team": "1747",
+    "problem": "55",
+    "language": "c",
+    "time": "1697199784.356700000",
+    "valid": true
+  },
+  {
+    "id": "48490",
+    "team": "1759",
+    "problem": "55",
+    "language": "c",
+    "time": "1697199807.067400000",
+    "valid": true
+  },
+  {
+    "id": "48491",
+    "team": "1677",
+    "problem": "55",
+    "language": "c",
+    "time": "1697199824.350100000",
+    "valid": true
+  },
+  {
+    "id": "48492",
+    "team": "1759",
+    "problem": "55",
+    "language": "c",
+    "time": "1697200001.591200000",
+    "valid": true
+  },
+  {
+    "id": "48493",
+    "team": "1759",
+    "problem": "55",
+    "language": "cpp",
+    "time": "1697200113.767600000",
+    "valid": true
+  },
+  {
+    "id": "48494",
+    "team": "1668",
+    "problem": "104",
+    "language": "c",
+    "time": "1697200181.695700000",
+    "valid": true
+  },
+  {
+    "id": "48495",
+    "team": "1677",
+    "problem": "55",
+    "language": "c",
+    "time": "1697200195.808600000",
+    "valid": true
+  },
+  {
+    "id": "48496",
+    "team": "1747",
+    "problem": "55",
+    "language": "c",
+    "time": "1697200196.986900000",
+    "valid": true
+  },
+  {
+    "id": "48497",
+    "team": "1677",
+    "problem": "96",
+    "language": "c",
+    "time": "1697200342.476200000",
+    "valid": true
+  },
+  {
+    "id": "48498",
+    "team": "1759",
+    "problem": "56",
+    "language": "c",
+    "time": "1697200365.436800000",
+    "valid": true
+  },
+  {
+    "id": "48499",
+    "team": "1759",
+    "problem": "56",
+    "language": "c",
+    "time": "1697200411.568400000",
+    "valid": true
+  },
+  {
+    "id": "48500",
+    "team": "1759",
+    "problem": "56",
+    "language": "c",
+    "time": "1697200805.972200000",
+    "valid": true
+  },
+  {
+    "id": "48501",
+    "team": "1747",
+    "problem": "55",
+    "language": "c",
+    "time": "1697201117.435500000",
+    "valid": true
+  },
+  {
+    "id": "48502",
+    "team": "1672",
+    "problem": "56",
+    "language": "c",
+    "time": "1697201202.929900000",
+    "valid": true
+  },
+  {
+    "id": "48503",
+    "team": "1672",
+    "problem": "56",
+    "language": "c",
+    "time": "1697201422.518300000",
+    "valid": true
   }
 ]
